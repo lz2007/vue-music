@@ -25,9 +25,9 @@ axios
 http-server
 
 # 构建工具
-webpack：项目的编译打包
-vue-cli3.0：Vue 脚手架工具，快速搭建项目
-vConsole：移动端调试工具，在移动端输出日志
+webpack
+vue-cli
+vConsole
 
 ```
 
