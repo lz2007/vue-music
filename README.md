@@ -2,10 +2,10 @@
 
 # vue-music
 
-## 项目预览
+## 预览
 [预览地址](http://134.175.230.139:8080)
 
-## Build Setup
+## 设置
 
 ``` bash
 # install dependencies
@@ -21,4 +21,4 @@ npm run build
 npm run build --report
 ```
 
-## 项目截图
+## 截图
