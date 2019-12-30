@@ -5,6 +5,35 @@
 ## 预览
 [预览地址](http://134.175.230.139:8080)
 
+## 技术
+
+``` bash
+
+【前端】
+
+Vue
+Vue-cli3.0
+vue-router
+vuex
+vue-lazyload
+better-scroll
+stylus
+ES6
+
+【后端】
+
+http-server
+jsonp
+axios
+
+【工具】
+
+webpack：项目的编译打包
+vue-cli3.0：Vue 脚手架工具，快速搭建项目
+vConsole：移动端调试工具，在移动端输出日志
+
+```
+
 ## 设置
 
 ``` bash
