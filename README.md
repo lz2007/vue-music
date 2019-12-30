@@ -48,7 +48,6 @@ npm run build --report
 ```
 
 ## 截图
-
 ![1.png](https://upload-images.jianshu.io/upload_images/7084049-45efa102c3db07c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![2.png](https://upload-images.jianshu.io/upload_images/7084049-a0de73ddc4996c18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
