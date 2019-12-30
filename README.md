@@ -3,7 +3,7 @@
 # vue-music
 
 ## 项目预览
-![预览地址](http://134.175.230.139:8080)
+[预览地址](http://134.175.230.139:8080)
 
 ## 项目截图
 
@@ -16,9 +16,6 @@
 ![min player list interface](https://i.loli.net/2019/04/10/5cad9ce9ebab7.png)
 ![hot song list interface](https://i.loli.net/2019/04/10/5cadb0eae5f9e.png)
 ![search list interface](https://i.loli.net/2019/04/10/5cada57184b01.png)
-
-## Content outline
-![Content outline](https://i.loli.net/2019/01/12/5c39f01b7e72b.jpeg)
 
 ## 页面
 
